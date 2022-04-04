@@ -32,6 +32,7 @@ public static Direction east() {
     return new Direction(3);
 }
 
+	//My first commit third
 public static Direction west() {
     return new Direction(9);
 }
