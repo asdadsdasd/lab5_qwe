@@ -109,6 +109,7 @@ public int hashCode() {
         msg = "S";
     }
 
+	//My fourth commit third
     else if(_hours == 9) {
         msg = "W";
     }
