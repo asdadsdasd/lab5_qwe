@@ -66,6 +66,7 @@ public Direction onLeft() {
 public boolean equals(Object other) {
     if (other == null)
 
+	//My third commit second
 {
     return false;
 }
