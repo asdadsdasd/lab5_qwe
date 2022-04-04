@@ -4,7 +4,8 @@ package Model.gamefield;
 public class Direction {
     ----------------------- —войства -------------------------- // определ€ем направление в часах (0 до 12) private final int _hours;
     private Direction(int hours)
-
+	
+	//My first commit master
 {
     // ѕриводим заданные часы к допустимому диапазону hours = hours % 12;
     if (hours < 0)
