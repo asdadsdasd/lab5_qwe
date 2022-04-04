@@ -43,6 +43,7 @@ public Direction clockwise() {
     return new Direction(this._hours + 3);
 }
 
+	//My second commit second
 public Direction anticlockwise() {
     return new Direction(this._hours - 3);
 }
