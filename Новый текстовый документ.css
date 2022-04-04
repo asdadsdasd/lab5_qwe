@@ -16,7 +16,8 @@ public class Direction {
 
 _hours = hours;
 }
-
+	
+	//My second commit master
 // ----------------------- Порождение --------------------------
 
 public static Direction north() {
