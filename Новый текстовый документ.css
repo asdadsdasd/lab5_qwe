@@ -80,6 +80,7 @@ Direction direct = (Direction) other;
 return _hours == direct._hours;
 }
 
+	//My third commit third
 public boolean isOpposite(Direction other) {
     return this.opposite().equals(other);
 }
