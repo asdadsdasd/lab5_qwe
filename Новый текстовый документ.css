@@ -60,6 +60,8 @@ public Direction onLeft() {
     return anticlockwise();
 }
 
+
+	//My fourth commit master
 // ------------------ Сравнение направлений ---------------------
 
 @Override
